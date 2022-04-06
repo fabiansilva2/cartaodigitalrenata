@@ -1,0 +1,69 @@
+.cabecalho{
+    text-align: center;
+}
+
+.cabecalho1{
+    text-align: center;
+}
+
+body{
+    background-color: aqua;
+}
+
+.btn-instagram{
+    margin-top: 10px;
+    padding: 10px;
+    padding: 10px;
+    position: relative;
+    color: #fff;
+    background: #FD1D1D; 
+    border-radius: 6px;
+    text-align: center;
+    width: 100%;
+}
+
+.btn-whatsapp{
+    margin-top: 10px;
+    padding: 10px;
+    padding: 10px;
+    position: relative;
+    color: #fff;
+    background: #34af23; 
+    border-radius: 6px;
+    text-align: center;
+    width: 100%;
+}
+
+.btn-familia{
+    margin-top: 10px;
+    padding: 10px;
+    padding: 10px;
+    position: relative;
+    color: #fff;
+    background: rgb(214, 70, 214); 
+    border-radius: 6px;
+    text-align: center;
+    width: 100%;
+}
+
+.imagem0 {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.imagem1 {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    width: 100%;
+}
+
+.container img { 
+    max-width: 80%; 
+}
